@@ -1,4 +1,5 @@
 # Rust
+Repository with main objective, to improve RUST knowledge
 # HackerRank Exercises
 ## Solve me first
 Complete the function solveMeFirst to compute the sum of two integers.  
