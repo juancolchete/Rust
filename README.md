@@ -1,5 +1,5 @@
 # Rust
-Repository with main objective, to improve RUST knowledge
+Repository with main objective, to improve RUST knowledge and solve general world problems.
 # HackerRank Exercises
 ## Solve me first
 Complete the function solveMeFirst to compute the sum of two integers.  
